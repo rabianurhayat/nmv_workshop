@@ -1,2 +1,2 @@
 # calisma_notlarim
-i want to explain that students could use beneficial cites and documents here
+Hi I am Rabia, i would like to save some genomic data here in bulk.Perhaps it will be useful for you too.
