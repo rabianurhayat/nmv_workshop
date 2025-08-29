@@ -1,2 +1,7 @@
-# calisma_notlarim
-Hi I am Rabia, i would like to save some genomic data here in bulk.Perhaps it will be useful for you too.
+# ONT long-read methylation demo (NanoMethViz + dmrseq)
+
+Minimal, runnable workflow on mm10 chr7 (Peg3/Kcnq1ot1/Cdkn1c).
+
+## Run
+```bash
+Rscript run_nmv_workshop.R
