@@ -1,4 +1,4 @@
-# ONT long-read methylation demo (NanoMethViz + dmrseq)
+# ONT long-read methylation demo (NanoMethViz and dmrseq)
 
 Minimal, runnable workflow on mm10 chr7 (Peg3/Kcnq1ot1/Cdkn1c).
 
