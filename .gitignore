@@ -1,0 +1,17 @@
+
+input/
+data/
+*.rds
+*.bgz
+*.bam
+*.bai
+*.cram
+*.fast5
+*.tar.gz
+ega_credentials.json
+
+# R & proje artıkları
+.Rhistory
+.RData
+.Rproj.user/
+renv/
